@@ -16,7 +16,7 @@
 
 *-Установил Zabbix Agent на 2 виртмашины, один из них Zabbix Server*
 
-*-Добавлен Zabbix Server в список разрешенных серверов ваших Zabbix Agentов*
+*-Добавлен Zabbix Server в список разрешенных серверов Zabbix Agentов*
 
 *-Добавлен Zabbix Agentов в раздел Configuration > Hosts моего Zabbix Servera*
 

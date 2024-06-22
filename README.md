@@ -3,7 +3,9 @@
 ## Задание 1
 
 *-В веб-интерфейсе Zabbix Servera в разделе Templates создал новый шаблон*
+
 *-Создал Item который будет собирать информацию об загрузке CPU в процентах*
+
 *-Создал Item который будет собирать информацию об загрузке RAM в процентах*
 1. ![alt text](https://github.com/sAslank/Zabbix2/blob/main/scrin/1.jpg)
 2. ![alt text](https://github.com/sAslank/Zabbix2/blob/main/scrin/2.jpg)
@@ -14,7 +16,7 @@
 
 *-Установил Zabbix Agent на 2 виртмашины, один из них Zabbix Server*
 *-Добавлен Zabbix Server в список разрешенных серверов ваших Zabbix Agentов*
-*-Добавлен Zabbix Agentов в раздел Configuration > Hosts вашего Zabbix Servera*
+*-Добавлен Zabbix Agentов в раздел Configuration > Hosts моего Zabbix Servera*
 *-Прикрепил за каждым хостом шаблон Linux by Zabbix Agent*
 *-Проверил что в разделе Latest Data начали появляться данные с добавленных агентов*
 1. ![alt text](https://github.com/sAslank/Zabbix2/blob/main/scrin/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202%204.jpg)
